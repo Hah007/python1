@@ -19,6 +19,7 @@ class Dog():
 # print(dog.color)#访问属性
 
 # dog.run()#执行对象的方法
+# dog.eat()
 
 
 
